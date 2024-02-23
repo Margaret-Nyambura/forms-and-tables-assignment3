@@ -1,0 +1,36 @@
+#form{
+    border: solid 0px;  
+    margin: 0 auto;
+    padding: 2px;
+}
+.input{
+    padding: 6px 6px;
+    border-radius: solid 1px black;
+
+}
+#table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 90px;
+    border-radius: 0 auto;
+    margin: 0;
+}
+td th{
+    border: solid 1px black;
+    text-align: left;
+    padding: 20px;
+}
+center{
+    border: 0 auto;
+
+}
+
+    
+
+    
+
+
+
+
+           
+  
